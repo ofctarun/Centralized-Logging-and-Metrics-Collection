@@ -1,0 +1,9 @@
+{
+  "name": "log-aggregator",
+  "version": "1.0.0",
+  "description": "Mock Log Aggregator",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
