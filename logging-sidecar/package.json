@@ -1,0 +1,9 @@
+{
+    "name": "logging-sidecar",
+    "version": "1.0.0",
+    "description": "Logging Sidecar",
+    "main": "index.js",
+    "dependencies": {
+        "axios": "^1.6.2"
+    }
+}
